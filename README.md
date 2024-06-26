@@ -1,0 +1,1 @@
+# aigc-application-demo
